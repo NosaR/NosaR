@@ -12,7 +12,7 @@
 
 - 📭 My Personal Email **rahmandanosa@gmail.com**
 
-- ⚡ Fun fact **Just a newbie fullstack developer**
+- ⚡ Fun fact **Just a newbie flutter developer**
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
