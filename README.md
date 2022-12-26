@@ -39,7 +39,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2F9gag.com%2Fgag%2Farox7VX%2Fflutter-development-be-like&psig=AOvVaw3bNNo3szeA42w8ROdiHOqU&ust=1672158791308000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDM9onbl_wCFQAAAAAdAAAAABAE)" width="512px"/>
+<img src="https://img-9gag-fun.9cache.com/photo/arox7VX_700bwp.webp" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NosaR&icon=0&color=3)](https://visitcount.itsvg.in)
