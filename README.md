@@ -33,3 +33,5 @@
 
 <h3 align="left">🏆 GitHub Stats:</h3>
 ![](https://github-profile-trophy.vercel.app/?username=NosaR&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=NosaR&icon=0&color=3)](https://visitcount.itsvg.in)
