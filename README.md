@@ -43,6 +43,5 @@
 <img src="https://img-9gag-fun.9cache.com/photo/arox7VX_700bwp.webp" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NosaR&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
